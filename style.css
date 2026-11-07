@@ -9,7 +9,7 @@
   /* font-weight: 700; */
   font-style: normal;
   font-variation-settings: "wdth" 100;
-  /* background-image: url("/public/Monochrome\ Ink\ Wash\ Splatter.png"); */
+  
 }
 
 /* ul{
@@ -17,6 +17,10 @@
     gap: 10px;
     list-style: none;
 } */
+
+body{
+    background-image: url("/public/Monochrome\ Ink\ Wash\ Splatter.png");
+}
 
 .nav-links{
     display: flex;
